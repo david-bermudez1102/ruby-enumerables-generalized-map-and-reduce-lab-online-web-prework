@@ -11,7 +11,6 @@ yield
       i += 1
     end
 
-  yield
 
 end
 
