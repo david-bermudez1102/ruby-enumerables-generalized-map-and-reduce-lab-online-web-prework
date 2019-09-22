@@ -20,7 +20,7 @@ def reduce(source_array, starting_point=0)
 
   if(value==nil)
     value==false
-
+  end
 value
 
 end
