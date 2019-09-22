@@ -5,8 +5,8 @@ def map(source_array)
       yield (source_array[i])
       i += 1
     end
-    return source_array
-
+    
+    source_array
 end
 
 
