@@ -9,7 +9,7 @@ def map(source_array)
 end
 
 
-def reduce(source_array, starting_pont)
+def reduce(source_array, starting_pont=0)
   i = 0
   total = starting_point
 
